@@ -51,8 +51,8 @@ The detection of potholes is a critical aspect of our integrated lane and pothol
 
 ## Code
 1) Make sure to download the weights for YOLOv8 here: https://www.dropbox.com/scl/fi/q5d9ru21ozn93y6lmyzaz/y8best.pt?rlkey=y4bvfrlu928gb9gkv4w6lgsor&dl=0 . Download it inside the same directory where all the .py files are.
-2) In order to run the lane detection along with object detection, run the "lane detection.py" file. This would run the lane detection algorithm along with object detection on a live video stream.
-3) In order to run the pothole detection system, run the "pothole detection.py file. This would detect potholes on live video stream.
+2) In order to run the lane detection along with object detection, run the "lane detection.py" file. This would run the lane detection algorithm along with object detection on a live video stream. The video for testing the same is in the "output_vid" folder named "project_video.mp4".
+3) In order to run the pothole detection system, run the "pothole detection.py file. This would detect potholes on live video stream. The video for testing the same is in the "output_vid" folder named "pothole2.mp4".
 
 _Project by Sam Selvaraj, Archisha Srivastava and Rajat Saboo._
 
