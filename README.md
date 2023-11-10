@@ -1,1 +1,1 @@
-# Smart-Lane-Detection-System
+# Smart Lane Detection System
